@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 <!--
 **sf176/sf176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
